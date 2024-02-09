@@ -3,11 +3,9 @@ session_start();
 ?> 
 <!DOCTYPE html>
 <!--
-Topic: Graded Unit 
-  Student No: 21013159
-  Student Name: Maximilian Nwosu
-  School: UHI Inverness 
-  Date: 31 01 23
+
+ Author Name: Maximilian Nwosu
+  
   This file is the Check User page that queries the database table.
 -->
 <html>
